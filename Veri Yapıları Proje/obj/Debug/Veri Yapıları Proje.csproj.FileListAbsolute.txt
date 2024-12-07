@@ -1,0 +1,7 @@
+C:\Users\elmau\OneDrive - bandirma.edu.tr\Desktop\Kodlama ve Programlama\C#\C#ConsoleApp\Veri Yapıları Proje\obj\Debug\Veri Yapıları Proje.csproj.AssemblyReference.cache
+C:\Users\elmau\OneDrive - bandirma.edu.tr\Desktop\Kodlama ve Programlama\C#\C#ConsoleApp\Veri Yapıları Proje\obj\Debug\Veri Yapıları Proje.csproj.CoreCompileInputs.cache
+C:\Users\elmau\OneDrive - bandirma.edu.tr\Desktop\Kodlama ve Programlama\C#\C#ConsoleApp\Veri Yapıları Proje\bin\Debug\Veri Yapıları Proje.exe.config
+C:\Users\elmau\OneDrive - bandirma.edu.tr\Desktop\Kodlama ve Programlama\C#\C#ConsoleApp\Veri Yapıları Proje\bin\Debug\Veri Yapıları Proje.exe
+C:\Users\elmau\OneDrive - bandirma.edu.tr\Desktop\Kodlama ve Programlama\C#\C#ConsoleApp\Veri Yapıları Proje\bin\Debug\Veri Yapıları Proje.pdb
+C:\Users\elmau\OneDrive - bandirma.edu.tr\Desktop\Kodlama ve Programlama\C#\C#ConsoleApp\Veri Yapıları Proje\obj\Debug\Veri Yapıları Proje.exe
+C:\Users\elmau\OneDrive - bandirma.edu.tr\Desktop\Kodlama ve Programlama\C#\C#ConsoleApp\Veri Yapıları Proje\obj\Debug\Veri Yapıları Proje.pdb
